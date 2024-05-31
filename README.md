@@ -8,4 +8,7 @@
   Particularly interested in [specific programming languages, frameworks, or areas within software development].
   Open to exploring new ideas and contributing to exciting initiatives!
   
-- 📫 How to reach me: thanhdatvu.203@gmail.com, mobile phone: 740 607 6217
+- 📫 How to reach me:
+- linkedin: www.linkedin.com/in/thanhdatvu111
+- Gmail: thanhdatvu.203@gmail.com
+- Mobile phone: 740 607 6217
