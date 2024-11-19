@@ -1,14 +1,19 @@
 ![image](https://github.com/ThanhDatVu111/ThanhDatVu111/assets/150296646/bea47b3d-7ac5-424f-805e-f9075791ff3f)
 
-**`Engineer (Cloud/Software/Game)`**
+About Me 🚀
+Hey there! I'm a Software Engineering student at California State University of San Marcos, blending Vietnamese creativity with Silicon Valley innovation. Currently maintaining a 3.96 GPA while juggling multiple tech roles:
 
-I'm an international student from Vietnam, currently pursuing a Bachelor's degree in Software Engineering with a minor in Computer Science at California State University of San Marcos.
+🌩️ Cloud Engineering Intern at ChakraTech, building AWS infrastructure
+💻 Computer Science Tutor helping fellow students master DSA
+👥 President of LeetCode Club & Technical Lead at Google Developer Student Club
+🎮 Game Development enthusiast (check out Project Nostalgia!)
 
-Last spring semester, I served as a Computer Science tutor at the STEM Center and as President of the LeetCode branch in the Google Developer Student Club.
+What I'm Up To 🔨
 
-Currently, I am interning at ChakraTech as a remote Cloud Engineer intern, where I collaborate with the technical team to help build foundational AWS infrastructure. This experience has strengthened my technical skills and my ability to work in a team environment.
-
-I am actively seeking internships related to cloud computing, software development, and gaming. I am passionate about contributing to open-source projects, collaborating with others, and building innovative solutions together. I am eager to bring my background in software engineering and my intern experience to these roles and make a meaningful impact.
+🏗️ Building scalable cloud infrastructure with AWS and Terraform
+🤖 Developing AI-powered educational platforms
+🎯 Leading coding competitions and technical workshops
+🌐 Contributing to open-source projects
 
 ---
 
