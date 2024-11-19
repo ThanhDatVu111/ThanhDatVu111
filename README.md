@@ -37,7 +37,9 @@ What I'm Up To 🔨
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</br>
 
 ### Let's Connect! 🤝
 I'm always excited to collaborate on innovative projects or discuss tech! Whether it's cloud computing, software development, or game design, I'm eager to contribute and learn. Feel free to reach out!
+
 https://thanhdatvu111.netlify.app/
