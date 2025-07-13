@@ -10,8 +10,6 @@ Hey there! I'm a Software Engineering student at California State University of 
 
 👥 President of LeetCode Club & Technical Lead at Google Developer Student Club
 
-🎮 Game Development enthusiast (check out Project Nostalgia!)
-
 What I'm Up To 🔨
 
 🏗️ Building scalable cloud infrastructure with AWS and Terraform
@@ -41,5 +39,3 @@ What I'm Up To 🔨
 
 ### Let's Connect! 🤝
 I'm always excited to collaborate on innovative projects or discuss tech! Whether it's cloud computing, software development, or game design, I'm eager to contribute and learn. Feel free to reach out!
-
-https://thanhdatvu111.netlify.app/
