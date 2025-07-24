@@ -4,22 +4,6 @@
 
 Hey there! I'm a Software Engineering student at California State University of San Marcos, blending Vietnamese creativity with Silicon Valley innovation. Currently maintaining a 3.96 GPA while juggling multiple tech roles:
 
-🌩️ Cloud Engineering Intern at ChakraTech, building AWS infrastructure
-
-💻 Computer Science Tutor helping fellow students master DSA
-
-👥 President of LeetCode Club & Technical Lead at Google Developer Student Club
-
-What I'm Up To 🔨
-
-🏗️ Building scalable cloud infrastructure with AWS and Terraform
-
-🤖 Developing AI-powered educational platforms
-
-🎯 Leading coding competitions and technical workshops
-
-🌐 Contributing to open-source projects
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
