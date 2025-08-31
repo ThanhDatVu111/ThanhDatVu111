@@ -1,11 +1,14 @@
 ![image](https://github.com/ThanhDatVu111/ThanhDatVu111/assets/150296646/bea47b3d-7ac5-424f-805e-f9075791ff3f)
 
-### About Me 🚀
+# Hi there, I'm Thanh Dat Vu 👋
 
-Hey there! I'm a Software Engineering student at California State University of San Marcos, blending Vietnamese creativity with Silicon Valley innovation. Currently maintaining a 3.96 GPA while juggling multiple tech roles:
+### About Me 🚀
+Hey there! I'm a **Software Engineering student at California State University of San Marcos** 🇻🇳✨ blending Vietnamese creativity with Silicon Valley innovation.  
+Currently maintaining a **3.96 GPA** while exploring everything from **cloud infrastructure and DevOps pipelines** to **full-stack apps and AI/ML demos**.  
+
+I’ve had the chance to intern at **Qualcomm, Johnson & Johnson, and a startup**, building scalable systems and leading teams to ship award-winning projects like *0KM*, a mobile app for long-distance couples.  
 
 ### 🧰 Languages and Tools
-
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -22,4 +25,11 @@ Hey there! I'm a Software Engineering student at California State University of 
 </br>
 
 ### Let's Connect! 🤝
-I'm always excited to collaborate on innovative projects or discuss tech! Whether it's cloud computing, software development, or game design, I'm eager to contribute and learn. Feel free to reach out!
+I’m always excited to collaborate on **innovative projects** or just chat about **tech, cloud, or game design**.  
+Let’s build something awesome together!  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/thanhdatvu111)  
+- 📄 [Resume]([https://drive.google.com/file/d/1mOJSSv6LPSVReSlHrRSMVn-yFtWery3l/view?usp=sharing](https://drive.google.com/file/d/1mOJSSv6LPSVReSlHrRSMVn-yFtWery3l/view?usp=sharing))  
+- 🌐 [Portfolio Website] (coming soon 👀)  
+
+---
