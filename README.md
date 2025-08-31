@@ -29,7 +29,7 @@ I’m always excited to collaborate on **innovative projects** or just chat abou
 Let’s build something awesome together!  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thanhdatvu111)  
-- 📄 [Resume]([https://drive.google.com/file/d/1mOJSSv6LPSVReSlHrRSMVn-yFtWery3l/view?usp=sharing](https://drive.google.com/file/d/1mOJSSv6LPSVReSlHrRSMVn-yFtWery3l/view?usp=sharing))  
+- 📄 [Resume](https://drive.google.com/file/d/1mOJSSv6LPSVReSlHrRSMVn-yFtWery3l/view?usp=sharing)  
 - 🌐 [Portfolio Website] (coming soon 👀)  
 
 ---
