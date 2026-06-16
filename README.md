@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Thanh Dat Vu 👋</h1>
 
 <p align="center">
-  Software Engineer · CS @ CSUSM (May 2027) · 3.95 GPA
+  Software Engineer · Swe @ Microsoft, Robinhood, Qualcomm, Johnson and Johson Medtech· 3.95 GPA
 </p>
 
 <p align="center">
