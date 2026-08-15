@@ -24,8 +24,6 @@
 
 I'm a software engineer who's shipped production systems across cloud infrastructure, mobile, and full-stack — interning at **Microsoft**, **Robinhood**, **Qualcomm**, and **Johnson & Johnson MedTech**.
 
-Most recently I built **Alvion**, a computer vision Android app for Snapdragon devices that monitors driver safety in real time, and led the team behind **0KM**, a mobile app for long-distance couples that won *Technical Titan* among 6 SWE teams for shipping 63 features.
-
 > **Everything else — my experience, projects, and skills — lives on my portfolio.**
 
 <p align="center">
